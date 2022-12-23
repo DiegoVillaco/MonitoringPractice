@@ -1,0 +1,12 @@
+D:\JalaCapacitacion\monitoring\GildedRose\GildedRoseTavern\GildedRoseTavern\bin\Debug\net6.0\GildedRoseTavern.deps.json
+D:\JalaCapacitacion\monitoring\GildedRose\GildedRoseTavern\GildedRoseTavern\bin\Debug\net6.0\GildedRoseTavern.dll
+D:\JalaCapacitacion\monitoring\GildedRose\GildedRoseTavern\GildedRoseTavern\bin\Debug\net6.0\GildedRoseTavern.pdb
+D:\JalaCapacitacion\monitoring\GildedRose\GildedRoseTavern\GildedRoseTavern\obj\Debug\net6.0\GildedRoseTavern.csproj.AssemblyReference.cache
+D:\JalaCapacitacion\monitoring\GildedRose\GildedRoseTavern\GildedRoseTavern\obj\Debug\net6.0\GildedRoseTavern.GeneratedMSBuildEditorConfig.editorconfig
+D:\JalaCapacitacion\monitoring\GildedRose\GildedRoseTavern\GildedRoseTavern\obj\Debug\net6.0\GildedRoseTavern.AssemblyInfoInputs.cache
+D:\JalaCapacitacion\monitoring\GildedRose\GildedRoseTavern\GildedRoseTavern\obj\Debug\net6.0\GildedRoseTavern.AssemblyInfo.cs
+D:\JalaCapacitacion\monitoring\GildedRose\GildedRoseTavern\GildedRoseTavern\obj\Debug\net6.0\GildedRoseTavern.csproj.CoreCompileInputs.cache
+D:\JalaCapacitacion\monitoring\GildedRose\GildedRoseTavern\GildedRoseTavern\obj\Debug\net6.0\GildedRoseTavern.dll
+D:\JalaCapacitacion\monitoring\GildedRose\GildedRoseTavern\GildedRoseTavern\obj\Debug\net6.0\refint\GildedRoseTavern.dll
+D:\JalaCapacitacion\monitoring\GildedRose\GildedRoseTavern\GildedRoseTavern\obj\Debug\net6.0\GildedRoseTavern.pdb
+D:\JalaCapacitacion\monitoring\GildedRose\GildedRoseTavern\GildedRoseTavern\obj\Debug\net6.0\ref\GildedRoseTavern.dll
